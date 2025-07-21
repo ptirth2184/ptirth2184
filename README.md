@@ -74,6 +74,7 @@ I'm always open to new ideas, collaborations, or just a good conversation about 
 - 📫 Email: ptirth2184@gmail.com
 - 🧠 [Kaggle](https://www.kaggle.com/ptirth2184)
 - 💬 Open to: Internships, open-source collaboration, and discussion!
+- Resume: https://www.canva.com/design/DAGtoUQB1Tw/8pl6i1m6Dat6q70oYMkMuQ/
 
 ---
 
