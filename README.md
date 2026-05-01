@@ -72,7 +72,7 @@ An intelligent AI agent built for Ireland's mortgage processing industry. Analyz
 
 ---
 
-### 🩺 [Diagnosify — AI Medical Assistant]([https://github.com/TirthPatel](https://github.com/ptirth2184/Diagnosify))
+### 🩺 [Diagnosify — AI Medical Assistant](https://github.com/ptirth2184/Diagnosify)
 > *Python · Flask · MongoDB · Node.js · NLP · OTP Auth*
 
 Full-stack AI web app providing preliminary health assessments from user-reported symptoms. Built in a 5-member cross-functional team.
