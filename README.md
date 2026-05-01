@@ -116,8 +116,8 @@ Personalized music recommendation engine trained on 53,000+ tracks using Spotify
 
 <div align="center">
 
-![Tirth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ptirth2184&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ptirth2184&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ptirth2184&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptirth2184&theme=tokyonight)
 
 </div>
 
