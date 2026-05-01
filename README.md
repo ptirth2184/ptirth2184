@@ -106,9 +106,9 @@ Personalized music recommendation engine trained on 53,000+ tracks using Spotify
 
 | Certificate | Issuer | Year |
 |---|---|---|
-| 🏅 Building with Claude API | Anthropic | 2025 |
-| 🏅 Introduction to MCP (Model Context Protocol) | Anthropic | 2025 |
-| 🏅 Claude 101 | Anthropic | 2025 |
+| 🏅 Building with Claude API | Anthropic | 2026 |
+| 🏅 Introduction to MCP (Model Context Protocol) | Anthropic | 2026 |
+| 🏅 Claude 101 | Anthropic | 2026 |
 
 ---
 
@@ -116,8 +116,8 @@ Personalized music recommendation engine trained on 53,000+ tracks using Spotify
 
 <div align="center">
 
-![Tirth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TirthPatel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TirthPatel&layout=compact&theme=tokyonight&hide_border=true)
+![Tirth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ptirth2184&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ptirth2184&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
