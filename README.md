@@ -72,7 +72,7 @@ An intelligent AI agent built for Ireland's mortgage processing industry. Analyz
 
 ---
 
-### 🩺 [Diagnosify — AI Medical Assistant](https://github.com/ptirth2184/Diagnosify)
+### 🩺 [Diagnosify — AI Medical Assistant]
 > *Python · Flask · MongoDB · Node.js · NLP · OTP Auth*
 
 Full-stack AI web app providing preliminary health assessments from user-reported symptoms. Built in a 5-member cross-functional team.
@@ -82,7 +82,7 @@ Full-stack AI web app providing preliminary health assessments from user-reporte
 
 ---
 
-### 💰 [FinWise — Personal Finance Tracker]([https://github.com/TirthPatel](https://github.com/ptirth2184/FinWise))
+### 💰 [FinWise — Personal Finance Tracker](https://github.com/ptirth2184/FinWise)
 > *Python · Streamlit · Prophet · Matplotlib · Plotly*
 
 Smart personal finance dashboard with CSV bank statement ingestion, automated spending categorization, and time-series forecasting using Meta's Prophet.
@@ -92,7 +92,7 @@ Smart personal finance dashboard with CSV bank statement ingestion, automated sp
 
 ---
 
-### 🎵 [Music Recommender System]([https://github.com/TirthPatel](https://github.com/ptirth2184/Music-Recommender-System))
+### 🎵 [Music Recommender System](https://github.com/ptirth2184/Music-Recommender-System)
 > *Python · Scikit-learn · Spotify API · Pandas · Streamlit*
 
 Personalized music recommendation engine trained on 53,000+ tracks using Spotify audio features (tempo, energy, danceability).
